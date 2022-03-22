@@ -1,0 +1,33 @@
+.cover page
+.TOC
+.Introduction
+          -Background Sudy
+           -Problem statement
+          -Objective
+          -Scope
+          -Organization of study
+.Literature Review
+           -Technology review
+           -Similar system and theri comparison
+          -What we are going to do in our project?
+.Methodology
+         -System Analysis and design
+
+.System requirement
+       -Functional requirements
+       -non functional requirement
+.System specification 
+.Requirements determination
+    -Logical design
+    -Context level diagram
+    -Use-Case diagram
+    -System flow chart
+
+.References.
+
+ ===================================ideas================================================
+         -easy informatin storing
+          -medical drug taking scheduling
+         -home delivery of medicines.
+        -details on availability of the medicine.
+        -
